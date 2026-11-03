@@ -41,7 +41,7 @@ Get-FileHash .\Acer_ARM64_Drivers_v1.0.zip -Algorithm SHA256
 **Magnet для ZIP-торрента** (если torrent-клиент не открывает `.torrent`):
 
 ```text
-magnet:?xt=urn:btih:0c7c384318fe0251c43b34bbc9691e231a140bc2&dn=Acer_ARM64_Drivers_v1.0.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce
+magnet:?xt=urn:btih:0c7c384318fe0251c43b34bbc9691e231a140bc2&dn=Acer_ARM64_Drivers_v1.0.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&ws=https%3A%2F%2Fgithub.com%2FMakeHorizont%2Facer-swift-14-ai-arm64%2Freleases%2Fdownload%2Fv1.0%2FAcer_ARM64_Drivers_v1.0.zip
 ```
 
 <details>
@@ -53,7 +53,7 @@ magnet:?xt=urn:btih:99e55818e010c18f7ff1ce7a85807cfcc0d3b080&dn=Acer_ARM64_Drive
 
 </details>
 
-> Торренты работают, пока есть сидеры. ZIP-торрент меньше (483,79 МиБ); торрент папки — 1,01 ГБ, зато внутри сразу 778 отдельных файлов. Контрольные суммы всех файлов — в `SHA256SUMS.txt`.
+> Торренты работают, пока есть сидеры. ZIP-торрент меньше (483,79 МиБ); торрент папки — 1,01 ГБ, зато внутри сразу 778 отдельных файлов. Торрент папки создан в qBittorrent без трекеров, поэтому для него лучше брать magnet из спойлера выше — там трекеры прописаны. Контрольные суммы всех файлов — в `SHA256SUMS.txt`.
 
 ---
 
