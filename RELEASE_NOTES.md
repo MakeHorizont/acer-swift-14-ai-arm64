@@ -82,7 +82,7 @@ magnet:?xt=urn:btih:99e55818e010c18f7ff1ce7a85807cfcc0d3b080&dn=Acer_ARM64_Drive
 - ZIP (GitHub): https://github.com/MakeHorizont/acer-swift-14-ai-arm64/releases/download/v1.0/Acer_ARM64_Drivers_v1.0.zip
 - ZIP-торрент (GitHub): https://github.com/MakeHorizont/acer-swift-14-ai-arm64/releases/download/v1.0/Acer_ARM64_Drivers_v1.0.torrent
 - Торрент папки (GitHub): https://github.com/MakeHorizont/acer-swift-14-ai-arm64/releases/download/v1.0/Acer_ARM64_Drivers.torrent
-- Google Drive: https://drive.google.com/file/d/16i_lzauXH1sledXWDcj0kTpl-nJRXhSY/view?usp=sharing
+- Google Drive: https://drive.google.com/file/d/16i_lzauXH1sledXWDcj0kTpl-nJRXhSY/view?usp=sharing (для файла >100 МБ Drive может показать предупреждение — нажми **Download anyway**)
 - Telegram: https://t.me/codefort/187
 
 ## Правовая информация

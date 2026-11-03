@@ -26,6 +26,8 @@
 
 Файл: `Acer_ARM64_Drivers_v1.0.zip` — **507 294 909 байт (483,79 МиБ)**.
 
+> Google Drive для файлов больше 100 МБ может показать «can't scan this file for viruses» — это нормально, нажми **Download anyway**.
+
 **SHA-256:**
 
 ```text
