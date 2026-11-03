@@ -1,0 +1,35 @@
+# OEM driver payloads are distributed via Releases / Drive / Telegram / Torrent.
+# They are intentionally not stored in git: one file is 267 MB, GitHub blocks >100 MB.
+Drivers_files/
+ColorProfiles/
+Acer_ARM64_Drivers/
+Acer_ARM64_Drivers_v1.0.zip
+*.zip
+*.pow
+*.icm
+*.inf
+*.sys
+*.cat
+*.dll
+*.exe
+*.so
+*.bin
+*.mbn
+*.elf
+*.jsn
+
+# Local artifacts
+*.orig
+*.bak
+*.log
+Detected
+__test_*.bat
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Keep the torrent file
+!Acer_ARM64_Drivers_v1.0.torrent
+!*.torrent
